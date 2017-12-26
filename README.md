@@ -15,6 +15,8 @@ You are the superb Product Manager that we all know you to be. You have a gotten
 Remember you have only 40 mins to present and you need to leave time for Q&A. But also have a few things in the appendix if things come up.
 
 ## Products:
+Pick any one of the following. Think enterprise:
+
 1) Google Maps
 2) Slack
 3) Github
